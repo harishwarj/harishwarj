@@ -16,9 +16,6 @@ I have a solid foundation in **Full Stack Development** and **Python Development
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 
 ## 💼 Projects
-- **[CookMeAI](https://github.com/harishwarj/cookmeai)**: A web application designed to elevate culinary adventures using advanced language models.
-- **[College Canteen Food Ordering System](https://github.com/harishwarj/college-canteen-ordering)**: A web app for online food ordering using Streamlit and Firebase.
-- **[Brain Tumor Detection](https://github.com/harishwarj/brain-tumor-detection)**: A web-based application using CNN for brain tumor detection.
 - **[Horn AI](https://github.com/harishwarj/horn-ai)**: An intelligent real-time vehicle detection and horn intensity control system.
 - **[Smart Horn AI](https://github.com/harishwarj/smart-horn-ai)**: A project focused on reducing noise pollution and enhancing road safety using ML techniques.
 
