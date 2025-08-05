@@ -17,7 +17,7 @@ As part of the **Dr. MGR - ACS Satellite Team**, I served as the **Team Lead of 
 ## 🌐 Portfolio
 
 🧑‍💻 Explore my work, resume, and certifications:  
-📎 [https://portfolio-harishwarj.vercel.app](https://portfolio-harishwarj.vercel.app)
+📎 [https://portfolio-harishwarj.vercel.app](https://harishwarj.vercel.app/)
 
 ---
 
